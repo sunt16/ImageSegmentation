@@ -15,5 +15,5 @@ The innovative point in this program
 3. Function reshape in matlab has been used to memorize the location information of data.
 The results of our program
 original image
-![image](https://github.com/sunt16/ImageSegmentation/pic.jpg)
+![image](https://github.com/sunt16/ImageSegmentation/blob/master/pic.jpg)
 when choosing 3 classes
