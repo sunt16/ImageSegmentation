@@ -13,6 +13,7 @@ The innovative point in this program
 1. Image segmentation using kmeans has advantages compared to threshold method;
 2. We first flatten our image into one dimension before input it into kmeans program;
 3. Function reshape in matlab has been used to memorize the location information of data.
+4. The order of classify can disturb the final result without adding extral term, details in test1.m
 
 The results of our program
 
@@ -21,7 +22,6 @@ original image
 ![image](https://github.com/sunt16/ImageSegmentation/blob/master/pic.jpg)
 
 when choosing 3 classes
-
 
 ![image](https://github.com/sunt16/ImageSegmentation/blob/master/picture/pic1.jpg)
 
