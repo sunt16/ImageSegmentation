@@ -19,3 +19,4 @@ original image
 ![image](https://github.com/sunt16/ImageSegmentation/blob/master/pic.jpg)
 
 when choosing 3 classes
+
