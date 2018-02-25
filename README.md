@@ -22,6 +22,7 @@ original image
 
 when choosing 3 classes
 
+
 ![image](https://github.com/sunt16/ImageSegmentation/blob/master/picture/pic1.jpg)
 
 when choosing 4 classes
