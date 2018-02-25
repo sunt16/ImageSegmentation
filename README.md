@@ -27,3 +27,4 @@ when choosing 3 classes
 
 when choosing 4 classes
 
+![image](https://github.com/sunt16/ImageSegmentation/blob/master/picture/pic2.jpg)
